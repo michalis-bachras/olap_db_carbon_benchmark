@@ -1,0 +1,3 @@
+Label,dram_avgE,dram_totalE,dram_carbon,cpu_0_avgE,cpu_0_totalE,cpu_0_carbon,Latency(sec),Device,Read Count,Write Count,Read Bytes,Write Bytes,Read Time(ms),Write Time(ms),Busy Time(ms)
+Throughput(queries/sec)
+39.5578118315018
